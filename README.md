@@ -1,4 +1,4 @@
-### Hi👋It's Mahendra Khorwal
+###Hi  I'm Mahendra Khorwal 
 
 <!--
 **khorwal151/khorwal151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
